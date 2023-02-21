@@ -1,0 +1,17 @@
+what is an array?
+=> Array  are the collection of the data which can be encolsed in the Square brackets
+how many ways to declare arrays?
+=> there are two ways to declare the array in javascript .
+=> one with the help of square brackets and another with the help of thr new  Arrray key word
+=>> in array the elements are placed in the positions but we call them indexies.array conatins a uinque poisition these are called indexes
+=> the element in the first indexsies is denoted as arr[0]
+=> the first element in postion 1 and index=0
+=> the last index =arr.length
+=> the element last element as the arr.length-1
+
+=> uses of array 
+1)Grouping related to arrays
+2)Storing large amount of data
+3)Imporving performance
+4)Ease to use
+5)Better Readibility
