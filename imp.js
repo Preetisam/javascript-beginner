@@ -107,18 +107,18 @@ var y =
     : "x is not greater than eaqual 10 and not less than equal tp 30";
 console.log(y);
 
-// var x = (10 > 5) ? "x is greater than 5"
-// console.log(x); // synatx error
+var x = (10 > 5) ? "x is greater than 5"
+console.log(x); // synatx error
 
-// var x = 10;
-// var y = "10";
-// var z = x === y ? "equal" : "notequal";
-// console.log(z);
+var x = 10;
+var y = "10";
+var z = x === y ? "equal" : "notequal";
+console.log(z);
 
-// let x = 5;
-// while (x < 6) {
-//   console.log(x);
-// }
+let x = 5;
+while (x < 6) {
+  console.log(x);
+}
 
 let a1 = 3;
 let b = new Number(3);
